@@ -1,1 +1,3 @@
 texte créé depuis master
+
+texte créé depuis la branche test-conflits
